@@ -1,4 +1,5 @@
 # Use the latest stable version of Semaphore 2.0 YML syntax:
+# Use version v1.0
 version: v1.0
 
 # Name your pipeline. In case you connect multiple pipelines with promotions,
